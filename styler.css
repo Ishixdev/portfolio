@@ -312,15 +312,19 @@
     width: 65px;
   }
   .lp {
-    height: 70px;
-    width: 190px;
+    height: 90px;
+    width: 230px;
   }
   .posp {
     font-weight: 600;
-    width: 100px;
+    width: 140px;
     height: 130px;
-    font-size: 4px;
+    font-size: 8px;
     padding-left: 70px;
+    padding-top: -50px;
+    position: relative;
+    top: -12px;
+    text-align: center;
   }
 
 }
@@ -377,7 +381,7 @@
     font-weight: 600;
     width: 100px;
     height: 150px;
-    font-size: 4px;
+    font-size: 9px;
     padding-left: 90px;
   }
 }
@@ -427,14 +431,14 @@
     width: 70px;
   }
   .lp {
-    height: 70px;
-    width: 200px;
+    height: 100px;
+    width: 250px;
   }
   .posp {
     font-weight: 600;
-    width: 100px;
+    width: 140px;
     height: 150px;
-    font-size: 4px;
-    padding-left: 90px;
+    font-size: 9px;
+    padding-left: 79px;
   }
 }
